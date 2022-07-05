@@ -1,0 +1,80 @@
+
+.flexible-container{
+  display: flex;
+  margin-bottom: 150px;
+ 
+}
+.short{
+  color: orange;
+}
+h1{
+  font-size: 40px;
+  font-weight: 700;
+  color: gray;
+}
+.pragraph{
+  width: 50%;
+  margin-left: 5%;
+}
+.pragraph img{
+  width: 80%;
+  
+}
+.pragraph p{
+  margin-bottom: 60px ; 
+
+}
+
+ 
+.link-button{
+  text-decoration: none;
+  font-weight: 700;
+  background-image: linear-gradient(tomato,orange);
+  padding: 10px 30px;
+  border-radius: 20px;
+}
+.frame{
+  background-image: url(images/Frame\ 56.jpg);
+}
+
+ .picture{
+  width: 40%;
+ }
+
+.link-button1{
+  text-decoration: none;
+  /* padding-bottom: 20px; */
+  background-image: linear-gradient(blue,aqua);
+  padding: 10px 30px;
+  border-radius: 20px;
+}
+.pragraphM{
+  padding-right: 10px ;
+  text-align: left;
+  margin-left: 400px;
+  margin-top: 150px;
+}
+.third-section{
+  text-align: center;
+  margin-bottom: 100px;
+}
+.third-section p{
+  text-align: left;
+  margin: 0 30px;
+}
+.mithila{
+  box-shadow: 10px 10px 36px gray;
+  padding: 20px 30px;
+  border-radius: 20px;
+}
+.fourth-sector{
+  display: flex;
+  box-shadow: 10px 10px 16px gray;
+ 
+}
+.text1{
+  margin-right: 300px;
+}
+.text2{
+  margin-right: 300px ;
+}
